@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PubSec
 - 👀 I’m interested in Flutter, Dart.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me t.me/PubSecs
 
