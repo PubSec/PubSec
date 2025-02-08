@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PubSec
-- 👀 I’m interested in Flutter, Dart.
+- 👀 I’m interested in Flutter and AI/ML.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on projects
 
